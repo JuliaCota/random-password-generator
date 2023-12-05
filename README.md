@@ -13,5 +13,3 @@ This application generates a random password with a length of the user's choice.
 <a href="https://www.w3schools.com/howto/howto_js_rangeslider.asp" target="_blank">Custom slider</a>
 
 <a href="https://www.youtube.com/watch?v=duNmhKgtcsI&t=261s" target="_blank">Copy Button</a>
-
-<a href="https://www.youtube.com/watch?v=duNmhKgtcsI&t=261s">JavaScript Password Generator</a>
