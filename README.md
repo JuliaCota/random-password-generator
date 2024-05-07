@@ -1,4 +1,7 @@
 # Random Password Generator
+
+<h6 style="italic">unfinished</h6>
+
 This project is part of the "Practice Time - part 2" section of the "Learn Javascript" course from Scrimba, where the student is required to finish the project on their own without extensive help. In my case, without any help for I do not have the Scrimba subscription, therefore no help was given, I only saw a png of the project and a file saying what it had to do.
 
 Although I did recur to online resources (all listed below)
